@@ -40,3 +40,13 @@ body {
     background-color: #eeeeee !important;
     color: gray;
 }
+
+.links {
+    text-decoration: none;
+    color: gray;
+}
+
+.links:hover {
+    text-decoration: none;
+    color: gray;
+}
