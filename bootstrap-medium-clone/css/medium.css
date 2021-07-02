@@ -1,0 +1,42 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-lightblue {
+    background-color: #C4E2FF;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #222222;
+}
+
+.rounded-button {
+    border-radius: 20px;
+}
+
+.header-section {
+    margin-top: 100px;
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.see-all-topics {
+    color: green;
+    text-decoration: none;
+}
+
+.see-all-topics:hover {
+    color: green;
+    text-decoration: none;
+}
+
+.topics {
+    border: 1px solid lightgrey !important;
+}
+
+.topics:hover {
+    background-color: #eeeeee !important;
+    color: gray;
+}
