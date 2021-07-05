@@ -161,3 +161,7 @@ button.ref:hover {
   color: #0a66c2;
   border: 2px solid #0a66c2;
 }
+
+.footer {
+  width: 20%;
+}
